@@ -1,0 +1,20 @@
+"pt-BR":
+  activarecord:
+    models:
+      admin:
+        one: Administrador
+        other: Administradores
+      profile:
+        one: Perfil
+        other: Perfils
+    attribute:
+      admin:
+        id: Codigo
+        email: Email
+        created_at: Criado em
+        update_at: Atualizado em
+      profile:
+        id: Codigo
+        email: Email
+        created_at: Criado em
+        update_at: Atualizado em
